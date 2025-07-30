@@ -1,0 +1,16 @@
+{
+  "title": "Dies ist ein Scheiﬂtest",
+  "content": "Mal schauen was passieren wird",
+  "category": "technologie",
+  "tags": [
+    "tag1"
+  ],
+  "date": "2025-07-30T11:49:43.412Z",
+  "media": [
+    {
+      "name": "Codetest.png",
+      "url": "https://raw.githubusercontent.com/cooltool-online/hackerweckerblogtest/main/media/1753876182564_Codetest.png",
+      "type": "image"
+    }
+  ]
+}
